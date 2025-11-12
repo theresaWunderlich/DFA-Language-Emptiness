@@ -40,7 +40,7 @@ The program requires the input file to be in JSON format, representing the DFA's
 
 ### Example Input (`test_case_1.json`)
 
-[cite_start]This example corresponds to Test Case 1 from the project proposal [cite: 308-329].
+This example corresponds to Test Case 1 from the project proposal.
 
 ```json
 {
